@@ -761,10 +761,9 @@ ArthSetu demonstrates:
 Add your team members here:
 
 ```text
-Your Name — AI / Backend
-Your Name — Frontend
-Your Name — ML / Evaluation
-Your Name — Product / Architecture
+Prem Mahadik — AI / Backend
+Shivali Panchal — Frontend
+Rushil Purohit — ML / Evaluation
 ```
 
 ---
